@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delete Account - NoLootLeftBehind</title>
+    <style>
+        body { font-family: -apple-system, sans-serif; line-height: 1.6; color: #333; max-width: 600px; margin: 60px auto; padding: 20px; background-color: #fdfdfd; }
+        .card { background: white; padding: 30px; border-radius: 12px; border: 1px solid #eaeaea; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1); }
+        h1 { color: #c0392b; }
+        .btn { display: inline-block; background: #e74c3c; color: white; padding: 12px 24px; text-decoration: none; border-radius: 6px; font-weight: bold; margin-top: 20px; }
+        .warning { background: #fff3f3; color: #c0392b; padding: 15px; border-radius: 6px; border-left: 4px solid #e74c3c; margin: 20px 0; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>Delete Your Account</h1>
+        <p>If you would like to permanently delete your <strong>NoLootLeftBehind</strong> account and all associated data, please follow the request process below.</p>
+        
+        <div class="warning">
+            <strong>Warning:</strong> This action is permanent. Once your account is deleted, your watchlists, price history, and profile data cannot be recovered.
+        </div>
+
+        <h3>How to Request Deletion</h3>
+        <p>To comply with Google Play requirements, we provide this web request path. Please click the button below to send a deletion request from your registered email address:</p>
+        
+        <a href="mailto:cavemain101@gmail.com?subject=Account Deletion Request - Game Price Compare&body=I would like to request the permanent deletion of my account associated with this email address for the NoLootLeftBehind app." class="btn">Request Deletion via Email</a>
+
+        <h3>Data Handled</h3>
+        <p>Upon receiving your request, we will delete:</p>
+        <ul>
+            <li>Your name and email address.</li>
+            <li>Your unique Google Sign-In identifier.</li>
+            <li>All saved game preferences and alerts.</li>
+        </ul>
+        <p><em>Requests are typically processed within 7 business days.</em></p>
+    </div>
+    <p style="text-align: center; color: #999; margin-top: 20px;"><a href="privacy.html" style="color: #999;">Back to Privacy Policy</a></p>
+</body>
+</html>
